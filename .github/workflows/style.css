@@ -4,7 +4,7 @@
     /* Sets the fill color of the button icon */
     fill: rgb(255, 255, 255);
     /* Changes the cursor to a pointer when hovering over the button */
-    cursor: ;
+    cursor: pointer;
     /* Removes the outline around the button when clicked */
     outline: none;
  
@@ -16,8 +16,8 @@
     /* Sets the z-index to ensure the button is on top of other elements */
     z-index: 1;
     /* Sets the width and height of the button */
-    width: 52px;
-    height: 52px;
+    width: 62px;
+    height: 62px;
     /* Changes the cursor to a pointer when hovering over the button */
     cursor: pointer;
     /* Rounds the corners of the button */
